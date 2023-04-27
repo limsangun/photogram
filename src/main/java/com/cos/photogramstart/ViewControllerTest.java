@@ -40,4 +40,5 @@ public class ViewControllerTest {
 	public String updatePage() {
 		return "user/update";
 	}
+
 }
